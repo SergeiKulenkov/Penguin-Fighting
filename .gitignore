@@ -1,0 +1,13 @@
+/.vscode
+/Assets/TextMesh Pro
+/Assets/TextMesh Pro.meta
+/Assets/UniversalRenderPipelineGlobalSettings.asset
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/UserSettings
+Assembly-CSharp.csproj
+PenguinFighting.sln
+*.meta
