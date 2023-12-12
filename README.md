@@ -7,4 +7,4 @@ So it's a fighting game for 2 players playing on one keyboard that features:
 * Fully functioning UI: HUD with players' health bars, pause UI, game over UI
 * And of course easily expandable and readable code for some future improvements and new features
 
-All art and audio assets were downloaded for free from Unity assets store.
+All art and audio assets were downloaded for free from Unity asset store.
